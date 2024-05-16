@@ -5,7 +5,6 @@ int main() {
     char operation;
     float num1, num2;
 
-
     cout << "Введите операцию (+, -, *, /.): ";
     cin >> operation;
 
